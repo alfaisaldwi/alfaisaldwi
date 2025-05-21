@@ -8,6 +8,8 @@
 <p align="left">
 <a href="https://linkedin.com/in/alfaisal-dwiarianto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alfaisal-dwiarianto" height="30" width="40" /></a>
 <a target="_blank" href="https://instagram.com/alfaisaldwi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alfaisaldwi" height="30" width="40" /></a>
+<a target="_blank" href="https://gitlab.com/alfaisaldwi" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg](https://www.svgrepo.com/show/373625/gitlab.svg)" alt="alfaisaldwi" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
